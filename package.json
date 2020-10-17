@@ -8,15 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LucasMarcolino237/Proffy.git"
+    "url": "git+https://github.com/jsrav1/next-level-week-3.git"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LucasMarcolino237/Proffy/issues"
+  "url": "https://github.com/jsrav1/next-level-week-3/issues"
+
   },
-  "homepage": "https://github.com/LucasMarcolino237/Proffy#readme",
+  "homepage": "https://github.com/jsrav1/next-level-week-3#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.2",
