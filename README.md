@@ -1,5 +1,5 @@
 🚀 # next-level-week-2 🚀
-* PROFFY *
+* PROFFY 
 
 # Aplicação web e mobile para conectar professores e alunos idealizada pela Rocketseat
 
